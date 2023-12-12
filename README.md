@@ -17,4 +17,6 @@ Features
 	         Login Credentials: username = admin
 	         		    password = admin@123
 	         
-
+Contributions
+----------------
+If you'd like to contribute to the development of this Car Rental System, feel free to fork the repository and submit pull requests. Contributions are welcome!
